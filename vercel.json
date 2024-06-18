@@ -1,8 +1,8 @@
 {
   "rewrites": [
     {
-      "source": "/isv",
-      "destination": "https://isv.bornlogic.com"
+      "source": "/isv/",
+      "destination": "/"
     }
   ]
 }
