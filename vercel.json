@@ -1,8 +1,9 @@
 {
   "rewrites": [
     {
-      "source": "/ivs",
-      "destination": "https://ivs.bornlogic.com"
+      "source": "/isv",
+      "destination": "https://ivs.bornlogic.com",
+      "permanent": true
     }
   ]
 }
