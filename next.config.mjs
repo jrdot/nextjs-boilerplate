@@ -1,8 +1,8 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {};
 
-export default nextConfig;
-
 module.exports = {
   basePath: '/isv',
 }
+
+export default nextConfig;
