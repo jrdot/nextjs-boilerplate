@@ -1,9 +1,5 @@
 {
-  "rewrites": [
-    {
-      "source": "/isv",
-      "destination": "https://isv.bornlogic.com",
-      "permanent": "true"
-    }
+  "redirects": [
+    { "source": "/isv", "destination": "https://isv.bornlogic.com", "permanent": true }
   ]
 }
