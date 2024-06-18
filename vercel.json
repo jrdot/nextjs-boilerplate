@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/isv",
-      "destination": "https://ivs.bornlogic.com",
+      "destination": "https://isv.bornlogic.com",
       "permanent": true
     }
   ]
