@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/ivs",
+      "destination": "https://ivs.bornlogic.com"
+    }
+  ]
+}
