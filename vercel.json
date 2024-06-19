@@ -1,8 +1,8 @@
 {
-  "redirects": [
+  "rewrites": [
     {
       "source": "/isv",
-      "destination": "https://d26bbvrea88m1v.cloudfront.net"
+      "destination": "https://d26bbvrea88m1v.cloudfront.net/isv"
     }
   ]
 }
