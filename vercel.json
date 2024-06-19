@@ -1,8 +1,8 @@
 {
-  "rewrites": [
+  "redirects": [
     {
       "source": "/isv",
-      "destination": "/"
+      "destination": "https://d2b1jjfcs1a4k0.cloudfront.net"
     }
   ]
 }
